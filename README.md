@@ -1,6 +1,7 @@
 ### 📊 Instagram_Data_Analysis
 
-## Overview
+###  🚀 Overview
+This project explores Instagram user engagement by analyzing likes, comments, tags, follows, and photo interactions. Using SQL, we extract valuable insights from a MySQL database, helping to understand user behavior and content trends.
 
 ## Questions
 1. **Who are the 5 oldest users on the platform ?**

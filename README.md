@@ -1,6 +1,6 @@
-## 📊 Instagram Data Insights: Unlocking User Behavior
+# 📊 Instagram Data Insights: Unlocking User Behavior
 
-###  🚀 Overview
+##  🚀 Overview
 Instagram is one of the most influential social media platforms, and understanding user behavior can provide valuable insights for brands, marketers, and businesses. This project dives deep into Instagram data to uncover trends, user engagement patterns, and interesting statistics using SQL.
 
 Through this analysis, we answer key questions like:
@@ -12,13 +12,17 @@ Through this analysis, we answer key questions like:
 
 This project is designed to extract actionable insights that could help businesses optimize their social media strategies.
 
-### 📂 Dataset Details
+
+## 📂 Dataset Details
 Source: MySQL Database
 Tech Stack Used: SQL
 Key Columns: likes, comments, tags, follows, users, photo, photo_tag
 
-### 📈 Key Insights & Findings
-#### 1️⃣ User Demographics & Registration Trends
+
+## 📈 Key Insights & Findings
+
+### 1️⃣ User Demographics & Registration Trends
+
  1. **Who are the 5 oldest users on the platform ?**
    
 ![image](https://github.com/user-attachments/assets/eac882c1-16f1-4138-8e93-e1d16e75e63a)
@@ -32,7 +36,9 @@ Key Columns: likes, comments, tags, follows, users, photo, photo_tag
    
 ![image](https://github.com/user-attachments/assets/83b4bc56-868e-42d4-9280-f9b12abd472f)
 
+
 #### 2️⃣ Engagement & Activity Analysis
+
 
  4. **Who are the inactive users (those who have never posted a photo) that we can target with an email campaign ?**
 
@@ -55,6 +61,7 @@ Key Columns: likes, comments, tags, follows, users, photo, photo_tag
 
 #### 3️⃣ Hashtags & Social Trends
 
+
  8. **What is the total number of posts made by users ?**
    
 ![image](https://github.com/user-attachments/assets/84852961-9ec4-4238-9aab-6149c4417363)
@@ -71,6 +78,7 @@ Key Columns: likes, comments, tags, follows, users, photo, photo_tag
 
 #### 4️⃣ User Behavior & Bot Detection
 
+
 11. **Which users have liked every single photo on the site (possible bots) ?**
     
 ![image](https://github.com/user-attachments/assets/b8e517b9-d381-4dd9-be1b-de172adac6a7)
@@ -86,6 +94,7 @@ Key Columns: likes, comments, tags, follows, users, photo, photo_tag
 
 
 #### 5️⃣ Total Platform Activity
+
 
 14. **What percentage of users have either never commented on a photo or have commented on every photo ?**
 

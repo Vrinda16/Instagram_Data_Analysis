@@ -115,15 +115,15 @@ This project is designed to extract actionable insights that could help business
 
 
 ### 🎯 Why This Project Matters?
-This Instagram data analysis can help:                                                    <br>
-✅ Businesses & Influencers - Understand engagement & improve content strategy            <br>
-✅ Marketers - Identify best days/times for posting                                       <br>
-✅ Tech & Data Teams - Detect bot accounts and spammy behavior                            <br>
-✅ Recruiters & Hiring Managers - Evaluate analytical skills in SQL & data interpretation  
+This Instagram data analysis can help:                                                         <br>
+✅ **Businesses & Influencers** - Understand engagement & improve content strategy            <br>
+✅ **Marketers** - Identify best days/times for posting                                       <br>
+✅ **Tech & Data Teams** - Detect bot accounts and spammy behavior                            <br>
+✅ **Recruiters & Hiring Managers** - Evaluate analytical skills in SQL & data interpretation  
 
 
 ### 👩🏻‍💻 About Me
 Hey there! I'm an Aspiring Data Analyst passionate about uncovering insights from raw data and making Dashboards so as to recognize the Pattern or Trend. If you're looking for someone with expertise in SQL, Data Visualization, and Business Intelligence, feel free to connect!
 
 📩 Email: vrindagoel671@gmail.com   <br>
-🔗 LinkedIn: linkedin.com/in/-vrinda-goel32
+🔗 LinkedIn: https://www.linkedin.com/in/-vrinda-goel32/

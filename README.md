@@ -3,7 +3,7 @@
 ##  🚀 Overview
 Instagram is one of the most influential social media platforms, and understanding user behavior can provide valuable insights for brands, marketers, and businesses. This project dives deep into Instagram data to uncover trends, user engagement patterns, and interesting statistics using SQL.
 
-Through this analysis, we answer key questions like:
+Through this analysis, we answer key questions like:   <br>
 ✅ Who are the most engaged users?                   <br>
 ✅ Which posts get the most likes and comments?      <br>
 ✅ What are the top trending hashtags?               <br>
@@ -14,7 +14,7 @@ This project is designed to extract actionable insights that could help business
 
 
 ## 📂 Dataset Details
-**Source:** MySQL Database  <br>  
+**Source:** MySQL Database   
 **Tech Stack Used:** SQL    <br>
 **Key Columns:** likes, comments, tags, follows, users, photo, photo_tag
 
@@ -115,11 +115,11 @@ This project is designed to extract actionable insights that could help business
 
 
 ### 🎯 Why This Project Matters?
-This Instagram data analysis can help:
-✅ Businesses & Influencers - Understand engagement & improve content strategy
-✅ Marketers - Identify best days/times for posting
-✅ Tech & Data Teams - Detect bot accounts and spammy behavior
-✅ Recruiters & Hiring Managers - Evaluate analytical skills in SQL & data interpretation
+This Instagram data analysis can help:                                                    <br>
+✅ Businesses & Influencers - Understand engagement & improve content strategy            <br>
+✅ Marketers - Identify best days/times for posting                                       <br>
+✅ Tech & Data Teams - Detect bot accounts and spammy behavior                            <br>
+✅ Recruiters & Hiring Managers - Evaluate analytical skills in SQL & data interpretation  
 
 
 ### 👩🏻‍💻 About Me

@@ -1,4 +1,4 @@
-### 📊 Instagram_Data_Analysis
+### 📊 Instagram Data Insights: Unlocking User Behavior
 
 ###  🚀 Overview
 This project explores Instagram user engagement by analyzing likes, comments, tags, follows, and photo interactions. Using SQL, we extract valuable insights from a MySQL database, helping to understand user behavior and content trends.

@@ -37,7 +37,7 @@ This project is designed to extract actionable insights that could help business
 ![image](https://github.com/user-attachments/assets/83b4bc56-868e-42d4-9280-f9b12abd472f)
 
 
-#### 2️⃣ Engagement & Activity Analysis
+### 2️⃣ Engagement & Activity Analysis
 
 
  4. **Who are the inactive users (those who have never posted a photo) that we can target with an email campaign ?**
@@ -59,7 +59,7 @@ This project is designed to extract actionable insights that could help business
 ![image](https://github.com/user-attachments/assets/60ab2f89-d8a4-4770-9904-5d786af0bf7b)
 
 
-#### 3️⃣ Hashtags & Social Trends
+### 3️⃣ Hashtags & Social Trends
 
 
  8. **What is the total number of posts made by users ?**
@@ -76,7 +76,7 @@ This project is designed to extract actionable insights that could help business
     
 ![image](https://github.com/user-attachments/assets/23352a5d-f2b9-4e52-876a-a810d19f3cca)
 
-#### 4️⃣ User Behavior & Bot Detection
+### 4️⃣ User Behavior & Bot Detection
 
 
 11. **Which users have liked every single photo on the site (possible bots) ?**
@@ -93,7 +93,7 @@ This project is designed to extract actionable insights that could help business
 ![image](https://github.com/user-attachments/assets/ffd4cf2e-7b3d-4379-8868-7d4febaaefdb)
 
 
-#### 5️⃣ Total Platform Activity
+### 5️⃣ Total Platform Activity
 
 
 14. **What percentage of users have either never commented on a photo or have commented on every photo ?**

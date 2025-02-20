@@ -4,19 +4,19 @@
 Instagram is one of the most influential social media platforms, and understanding user behavior can provide valuable insights for brands, marketers, and businesses. This project dives deep into Instagram data to uncover trends, user engagement patterns, and interesting statistics using SQL.
 
 Through this analysis, we answer key questions like:
-✅ Who are the most engaged users?
-✅ Which posts get the most likes and comments?
-✅ What are the top trending hashtags?
-✅ Who are the inactive users that can be re-engaged?
-✅ Which users might be bots based on their activity?
+✅ Who are the most engaged users?                   <br>
+✅ Which posts get the most likes and comments?      <br>
+✅ What are the top trending hashtags?               <br>
+✅ Who are the inactive users that can be re-engaged?  <br>
+✅ Which users might be bots based on their activity?  <br>
 
 This project is designed to extract actionable insights that could help businesses optimize their social media strategies.
 
 
 ## 📂 Dataset Details
-Source: MySQL Database
-Tech Stack Used: SQL
-Key Columns: likes, comments, tags, follows, users, photo, photo_tag
+**Source:** MySQL Database  <br>  
+**Tech Stack Used:** SQL    <br>
+**Key Columns:** likes, comments, tags, follows, users, photo, photo_tag
 
 
 ## 📈 Key Insights & Findings
@@ -125,5 +125,5 @@ This Instagram data analysis can help:
 ### 👩🏻‍💻 About Me
 Hey there! I'm an Aspiring Data Analyst passionate about uncovering insights from raw data and making Dashboards so as to recognize the Pattern or Trend. If you're looking for someone with expertise in SQL, Data Visualization, and Business Intelligence, feel free to connect!
 
-📩 Email: vrindagoel671@gmail.com
+📩 Email: vrindagoel671@gmail.com   <br>
 🔗 LinkedIn: linkedin.com/in/-vrinda-goel32
